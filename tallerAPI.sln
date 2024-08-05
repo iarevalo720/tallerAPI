@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApi", "IdentityManagerServerApi\WebApi.csproj", "{29E1807D-00AB-4082-BCB5-521D6C5A6684}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharedClassLibrary", "SharedClassLibrary\SharedClassLibrary.csproj", "{D847A294-EF5D-409F-866B-77868AC96756}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29E1807D-00AB-4082-BCB5-521D6C5A6684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29E1807D-00AB-4082-BCB5-521D6C5A6684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29E1807D-00AB-4082-BCB5-521D6C5A6684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29E1807D-00AB-4082-BCB5-521D6C5A6684}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D847A294-EF5D-409F-866B-77868AC96756}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D847A294-EF5D-409F-866B-77868AC96756}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D847A294-EF5D-409F-866B-77868AC96756}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D847A294-EF5D-409F-866B-77868AC96756}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96527268-9C81-48DD-A801-6712FB7DD3D8}
+	EndGlobalSection
+EndGlobal
